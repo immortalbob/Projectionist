@@ -5,7 +5,7 @@ titles, dates, summaries, cast and characters, directors, writers, producers, st
 ratings, IMDb/TMDb IDs, file and codec details, watch history and more. The file works
 in both LibreOffice Calc and Excel. The app's other tabs explore the same collection.
 
-(Projectionist used to be called Plex Movie Exporter. Its settings carry over on the first start.)
+Projectionist was made to test out the viability of Claude Opus 5.5 in a semi-complicated project over the course of 3 days.
 
 ## Using it
 
