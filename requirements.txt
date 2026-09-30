@@ -1,0 +1,8 @@
+# Projectionist 1.0.0 needs Python 3.10 or newer, with tkinter (it comes with Python on Windows; on Linux it's
+# your distribution's python3-tk - README.md, "On Linux", has the commands), and:
+#     python -m pip install -r requirements.txt
+XlsxWriter          # writes the .xlsx spreadsheets
+
+# Optional. Only tools/make_icon.py (it redraws the icon) and the PNG previews a few tests draw use it, and those
+# tests skip without it. The app itself never needs it:
+# Pillow

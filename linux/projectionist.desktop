@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Projectionist
+GenericName=Plex movie explorer
+Comment=Turn a Plex library backup into a spreadsheet of your movies, and explore the collection
+Keywords=Plex;movies;films;spreadsheet;collection;
+Categories=AudioVideo;Video;
+Terminal=false
+StartupNotify=true
+StartupWMClass=Projectionist
+# linux/install.py fills these two in with where the app is (they can't be known in advance):
+Exec=python3 /path/to/Projectionist.pyw
+Icon=projectionist
